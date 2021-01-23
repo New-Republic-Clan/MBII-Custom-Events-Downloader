@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NR-Map-Downloader", "NR-Map-Downloader\NR-Map-Downloader.csproj", "{AD2F014D-3CC9-4E2C-AA95-F360C18A1544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD2F014D-3CC9-4E2C-AA95-F360C18A1544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2F014D-3CC9-4E2C-AA95-F360C18A1544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2F014D-3CC9-4E2C-AA95-F360C18A1544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2F014D-3CC9-4E2C-AA95-F360C18A1544}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9F76E95-375D-4068-BB7C-4BC39367F01E}
+	EndGlobalSection
+EndGlobal
